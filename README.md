@@ -12,7 +12,7 @@
 <p>
   <img src="https://komarev.com/ghpvc/?username=mahanyasbaira&label=Profile%20views&color=1F77B4&style=flat-square" alt="profile views" />
   <a href="https://www.linkedin.com/in/mahanyasbaira"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://mahanyasbaira.netlify.app"><img src="https://img.shields.io/badge/Portfolio-1F77B4?style=flat-square&logo=netlify&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://mahanyasbaira.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-1F77B4?style=flat-square&logo=netlify&logoColor=white" alt="Portfolio" /></a>
   <a href="mailto:mahanyasbaira16@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://github.com/mahanyasbaira?tab=followers"><img src="https://img.shields.io/github/followers/mahanyasbaira?label=Follow&style=flat-square&color=1F77B4" alt="followers" /></a>
 </p>
