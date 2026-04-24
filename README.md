@@ -12,7 +12,7 @@
 <p>
   <img src="https://komarev.com/ghpvc/?username=mahanyasbaira&label=Profile%20views&color=1F77B4&style=flat-square" alt="profile views" />
   <a href="https://www.linkedin.com/in/mahanyasbaira"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://mahanyasbaira.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-1F77B4?style=flat-square&logo=netlify&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://mahanyas.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-1F77B4?style=flat-square&logo=netlify&logoColor=white" alt="Portfolio" /></a>
   <a href="mailto:mahanyasbaira16@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://github.com/mahanyasbaira?tab=followers"><img src="https://img.shields.io/github/followers/mahanyasbaira?label=Follow&style=flat-square&color=1F77B4" alt="followers" /></a>
 </p>
@@ -44,89 +44,21 @@ fun_fact: I turn caffeine into clean commits and award-winning hackathon builds.
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Trophy.png" width="28"> Hackathon Wins
+## 🧠 Recent Project
 
 <div align="center">
 
-<table>
-<tr>
-<td width="50%" align="center" valign="top">
+### 🧠 NeuroSync — Multimodal Brain Encoding
 
-### 🥇 Hack4Health 2026
-**1st Place · Colorado State University · Apr 2026**
+<a href="https://neurosync-tribe-v2.vercel.app">
+  <img src="https://img.shields.io/badge/Live%20Demo-Visit-brightgreen?style=for-the-badge&logo=vercel" />
+</a>
 
-[**HybridHerd**](https://github.com/mahanyasbaira/HybridHerd-Hackathon-Winning-Smart-Livestock-Platform) — Cross-platform livestock health app with ML-powered early detection of Bovine Respiratory Disease from real-time IoT wearable telemetry.
+<br/><br/>
 
-`React` `React Native` `Node.js` `GraphQL` `FastAPI` `scikit-learn` `PostgreSQL`
-
-</td>
-<td width="50%" align="center" valign="top">
-
-### 🥇 CSU Engineering Innovation Challenge
-**1st Place · Dec 2025**
-
-**AgriVerse VR Simulator** — Led a 3-person team to ship 10+ MR/VR agricultural training simulations on Meta Quest 3S using Unity, C#, MRTK, and the XR Interaction Toolkit.
-
-`Unity` `C#` `MRTK` `XR Interaction Toolkit` `Meta Quest 3S` `Agile`
-
-</td>
-</tr>
-</table>
+<img src="https://github.com/mahanyasbaira/NeuroSync-Multimodal-Brain-Encoding-Model-TRIBE-v2-Inspired/blob/main/public/demo.gif" width="700"/>
 
 </div>
-
----
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" width="28"> Featured Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🧠 [NeuroSync](https://github.com/mahanyasbaira/NeuroSync-Multimodal-Brain-Encoding-Model-TRIBE-v2-Inspired)
-**Multimodal Brain Encoding — TRIBE v2 Inspired**
-
-Predicts cortical activity from naturalistic stimuli by fusing vision, audio, and language representations into a unified encoder.
-
-`PyTorch` `Transformers` `Neuroscience` `TypeScript`
-
-</td>
-<td width="50%" valign="top">
-
-### 📚 OARS — Multimodal Research Pipeline
-*Next.js 16 · Supabase · Gemini 2.5 · Cloudflare R2 · Clerk · Playwright · 2026–Present*
-
-3-layer AI pipeline that ingests PDFs, audio, and video — automates timeline extraction, contradiction detection, and cited report generation via Gemini 2.5 agents.
-
-`Next.js 16` `TypeScript` `Supabase` `Gemini 2.5`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 📝 [AI Form Builder](https://github.com/mahanyasbaira/AI-Form-Builder)
-*Next.js SaaS · Sep 2025*
-
-Production SaaS with OpenAI API, RBAC auth, Stripe billing, and Vercel analytics. Generated **1,000+** AI-driven forms backed by PostgreSQL.
-
-`Next.js` `TypeScript` `Drizzle ORM` `OpenAI` `Stripe` `PostgreSQL`
-
-</td>
-<td width="50%" valign="top">
-
-### 📱 [Employee Management App](https://github.com/mahanyasbaira/Employee-Management-App)
-*Android · IB CS IA · May 2025*
-
-Android app with auth, CSV export, attendance tracking, and real-time Firebase sync — currently used by **50+ users**.
-
-`Java` `Kotlin` `Android` `Firebase`
-
-</td>
-</tr>
-</table>
-
----
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="28"> Tech Stack
 
@@ -165,32 +97,6 @@ Android app with auth, CSV export, attendance tracking, and real-time Firebase s
 
 </div>
 
----
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="28"> GitHub Stats
-
-<div align="center">
-
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=mahanyasbaira&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=1F77B4&icon_color=4FC3F7&text_color=333333&bg_color=ffffff" />
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahanyasbaira&layout=compact&langs_count=8&hide_border=true&title_color=1F77B4&text_color=333333&bg_color=ffffff" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=mahanyasbaira&hide_border=true&background=ffffff&stroke=ffffff&ring=1F77B4&fire=4FC3F7&currStreakNum=1F77B4&currStreakLabel=1F77B4&sideNums=333333&sideLabels=333333&dates=666666" height="175" />
-
-</div>
-
-### 🏆 Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=mahanyasbaira&theme=flat&no-frame=true&no-bg=true&column=7&margin-w=10" />
-</div>
-
-### 📈 Contribution Activity
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mahanyasbaira&theme=minimal&hide_border=true&color=1F77B4&line=4FC3F7&point=1F77B4&area=true&area_color=E3F2FD" />
-</div>
-
----
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" width="28"> Milestones & Recognition
 
@@ -212,7 +118,7 @@ Android app with auth, CSV export, attendance tracking, and real-time Firebase s
 <div align="center">
 
 <a href="https://www.linkedin.com/in/mahanyasbaira"><img src="https://img.shields.io/badge/LinkedIn-Let's%20talk-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://mahanyasbaira.netlify.app"><img src="https://img.shields.io/badge/Portfolio-Visit-1F77B4?style=for-the-badge&logo=netlify&logoColor=white" /></a>
+<a href="https://mahanyas.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Visit-1F77B4?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 <a href="mailto:mahanyasbaira16@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://github.com/mahanyasbaira"><img src="https://img.shields.io/badge/GitHub-Follow-1F77B4?style=for-the-badge&logo=github&logoColor=white" /></a>
 
